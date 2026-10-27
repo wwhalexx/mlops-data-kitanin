@@ -24,3 +24,12 @@
 - Повторная генерация base дала одинаковый SHA-256.
 - check_data.py base: все проверки пройдены.
 - dvc status: Data and pipelines are up to date.
+
+- Базовый Git-коммит: 110f33170a960cacfd1cd1f2ef6b9e7a5a2cc5f9.
+
+## DVC remote
+
+- Имя: localremote.
+- Расположение: ../mlops-data-kitanin-remote.
+- Хранилище находится вне Git-репозитория.
+- Тип: локальная директория.
